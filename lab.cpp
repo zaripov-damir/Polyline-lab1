@@ -241,4 +241,4 @@ Polyline<T> makeIsoscelesTriangle(double alpha, double a) {
     return triangle;
 }
 
-#endif // LAB1_CPP
+#endif
